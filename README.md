@@ -49,7 +49,7 @@ Android 4.4 KitKat 이하의 모든 버전의 HD 단말기는 다운로드 가�
 페이스북  : https://www.facebook.com/byeongyeob.lee
 블러그    : http://blog.naver.com/lby2514.do
 오픈소스  : https://github.com/leebyungyop/android-noise-detector
-
+ 
 
   *   +---+ +--+ +--+ +--+ +---+ +---+ +---+ +---+ +--+ +--+* 
   *   | N | o | i | s | e | D | e | t | e | c | t | o | r  |* 
