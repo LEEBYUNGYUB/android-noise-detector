@@ -78,4 +78,3 @@ FACEBOOK     : https://www.facebook.com/byeongyeob.lee
 BLOG         : http://blog.naver.com/lby2514.do 
 OPEN SOURCE  : https://github.com/leebyungyop/android-noise-detector
 
-
