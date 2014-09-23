@@ -74,8 +74,8 @@ Android 4.4 KitKat 이하의 모든 버전의 HD 단말기는 다운로드 가�
 
 ▶ Developers Contact.
 EMAIL        : LBY2514@NAVER.COM
-FACEBOOK     : https://www.facebook.com/byeongyeob.lee
-BLOG         : http://blog.naver.com/lby2514.do
+FACEBOOK     : https://www.facebook.com/byeongyeob.lee 
+BLOG         : http://blog.naver.com/lby2514.do 
 OPEN SOURCE  : https://github.com/leebyungyop/android-noise-detector
 
 
